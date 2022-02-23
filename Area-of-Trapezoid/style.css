@@ -1,0 +1,35 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    border: 1px solid rgb(167, 167, 167);
+}
+
+button {
+    color: white;
+    background-color: darkred;
+    font-size: medium;
+}
+
+body {
+    background: white;
+    text-align: left;
+    padding: 25px 100px;
+    width: 540px;
+    margin: 25px auto;
+    border-radius: 25px;
+    margin-top: 60px;
+}
+
+html {
+    background: blue;
+}
+
+a {
+    color: blue;
+}
